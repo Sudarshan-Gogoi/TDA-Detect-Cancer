@@ -68,7 +68,7 @@ This Jupyter Notebook (Characterization.ipynb) performs topological data analysi
    sheet_name = 'Stomach'  # Change to desired tumor type
 -------------------------------------------------------------------------------------------------------------
 
-# README for Biomarker Selection algorithm (Optimized_Biomarker_Selection.ipynb):
+# README for Biomarker Selection algorithm (Optimized Biomarker Selection.ipynb):
 # Optimized_Biomarker_Selection function
 
 ## Overview
