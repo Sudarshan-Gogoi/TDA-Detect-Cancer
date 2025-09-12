@@ -1,1 +1,2 @@
-# "Topological Data Analysis (TDA) for Cancer Detection and Localization: Data, Scripts, and Tutorials"
+TDAcancer-detect: Topological Data Analysis for Cancer Detection;
+Data, Scripts, and Tutorials.
