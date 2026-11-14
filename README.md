@@ -6,7 +6,7 @@ This repository contains the Jupyter Notebook implementation accompanying the pa
 
 > **TDAcancer-detect: Integrating Topological Data Analysis and Machine Learning for Blood-Biomarker Based Multi-Cancer Detection and Biomarker Identification**
 
-The repository contains two clinical datasets and two Jupyter Notebooks. `TDAcancer-detect.ipynb` provides the Dataset 2 demonstration and associated analysis modules, while `Dataset_1_Analysis_and_Implementation.ipynb` contains the major implementation and analyses performed using Dataset 1. Together, the notebooks provide the code accompanying the study, including optimized biomarker selection, threshold-based cancer detection, tissue-of-origin localization, baseline comparisons, ROC analysis, and robustness/stability assessments.
+The repository contains two clinical datasets and two Jupyter notebooks. The `TDAcancer-detect.ipynb` notebook presents the main implementation and demonstration of the TDAcancer-detect model using Dataset 2, along with stability analyses and other associated analytical modules. The `Dataset_1_Analysis_and_Implementation.ipynb` notebook contains selected model implementations and analyses performed using Dataset 1. Together, the notebooks provide the code accompanying the study, including optimized biomarker selection, threshold-based cancer detection, tissue-of-origin localization, baseline comparisons, ROC analysis, and robustness/stability assessments.
 
 > **Research-use notice:** This is a research implementation, not a clinically validated diagnostic system. Outputs should not be used to make individual medical decisions. The two clinical workbooks listed below are included in this repository for the purposes and under the conditions stated by the data providers. Users are responsible for complying with the original data providers' access conditions, licenses, and data-use agreements, and for protecting patient confidentiality.
 
@@ -57,7 +57,7 @@ The paper describes two secondary clinical blood-biomarker datasets:
 - **Dataset 1:** 1,803 participants and 39 biomarkers, used as the primary development cohort.
 - **Dataset 2:** 323 participants and 42 biomarkers, used for independent-cohort evaluation with dataset-specific calibration.
 
-`TDAcancer-detect.ipynb` is configured for the **Dataset 2** demonstration, with the cohorts `normal`, `bladder`, `ovarian`, and `pancreatic`. `Dataset_1_Analysis_and_Implementation.ipynb` contains the major analyses performed using **Dataset 1**.
+The `TDAcancer-detect.ipynb` notebook presents the main implementation and demonstration of the TDAcancer-detect model using **Dataset 2**, along with stability analyses and other associated analytical modules. The `Dataset_1_Analysis_and_Implementation.ipynb` notebook contains selected model implementations and analyses performed using **Dataset 1**.
 
 Both clinical workbooks are included in this GitHub repository:
 
